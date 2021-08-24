@@ -2,3 +2,4 @@
 # _Exploratory Data Analysis(EDA)_
 ## This is a data visualization project as a part of our lab experiment done by importing some python libraries like pandas,seaborn,matplotlib and the code is executed in jupyter notebook.
 ## The dataset is downloaded from [kaggle](https://www.kaggle.com "kaggle.com") website.
+## Pandas is used to load the dataset and seaborn to visualize the data using bargraphs,linegraphs,pairplots and so on.
